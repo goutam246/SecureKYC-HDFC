@@ -328,7 +328,7 @@ If build fails:
 - Document scanning includes quality checks (blur detection)
 - Maximum 3 attempts per document upload
 - All document number fields are optional
-
+- Sometimes after registration it directly shows kyc approved, if that shows refresh the page once , you will be redirect to the KYC form
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -337,15 +337,9 @@ If build fails:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is private and proprietary.
-
 ## 👤 Support
 
 For issues or questions, please contact the development team or create an issue in the repository.
-
+Email - goutam2462004@gmail.com
 ---
-
-**Happy Coding! 🎉**
 
